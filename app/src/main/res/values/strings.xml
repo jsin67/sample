@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SampleAppJaggrat</string>
+    <string name="total_balance_format">Total Balance : %.2f </string>
+</resources>
